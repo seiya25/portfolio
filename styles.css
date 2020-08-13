@@ -240,13 +240,14 @@ textarea{
 
 .decorated-btn {
   margin-top:30px;
-  background-color: gold;
+  background-color: white;
   width:170px;
   font-size: 25px;
   border-radius: 5px;
-  border-bottom: solid 3px goldenrod;
+  border-bottom: solid 3px whitesmoke;
   box-shadow: 3px 3px 3px gray;
   transition: 0.3s;
+  cursor: pointer;
 }
 
 .click-down:active {
@@ -255,7 +256,7 @@ textarea{
 }
 
 .decorated-btn:hover {
-  background-color: orange;
+  background-color: rgba(225,225,225,0.2;
 }
 
 .fadein {
